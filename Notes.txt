@@ -1,0 +1,4 @@
+1. To run  the app on the browser
+streamlit run /Users/rokonuzzamanreza/UI-Analyzer/App.py 
+
+2. To debug, just click on the debug button
