@@ -1,3 +1,5 @@
 models/
 .venv/
 models1/
+.vscode/
+.DS_Store
