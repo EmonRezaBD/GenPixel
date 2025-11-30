@@ -1,0 +1,4 @@
+Model,Training Accuracy (%),Avg External Accuracy (%),Std External Accuracy (%),Min External Accuracy (%),Max External Accuracy (%)
+ResNet-50,97.45,84.85333333333334,20.857493191230393,55.36,100.0
+EfficientNet-B0,98.1,84.92,20.973780457196234,55.26,100.0
+ViT,95.09,83.97333333333334,20.26873673638515,55.36,99.76

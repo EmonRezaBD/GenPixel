@@ -1,0 +1,10 @@
+Model,Dataset,Accuracy (%),Training Accuracy (%),Performance Drop (%)
+ResNet-50,CashBowman (General AI),55.36,97.45,42.09
+ResNet-50,Midjourney v6,99.2,97.45,-1.75
+ResNet-50,DALL-E 3,100.0,97.45,-2.549999999999997
+EfficientNet-B0,CashBowman (General AI),55.26,98.1,42.839999999999996
+EfficientNet-B0,Midjourney v6,99.5,98.1,-1.4000000000000057
+EfficientNet-B0,DALL-E 3,100.0,98.1,-1.9000000000000057
+ViT,CashBowman (General AI),55.36,95.09,39.730000000000004
+ViT,Midjourney v6,96.8,95.09,-1.7099999999999937
+ViT,DALL-E 3,99.76,95.09,-4.670000000000002
